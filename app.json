@@ -18,6 +18,11 @@
       "permissions": ["NFC"],
       "package": "com.yourcompany.nfcadmindebug",
       "versionCode": 1
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b7287f9d"
+      }
     }
   }
 }
