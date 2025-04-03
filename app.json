@@ -2,6 +2,7 @@
   "expo": {
     "name": "expo-nfc-admin-debug",
     "slug": "expo-nfc-admin-debug",
+    "owner": "sdemirhan",
     "version": "1.0.0",
     "orientation": "portrait",
     "platforms": ["android"],
